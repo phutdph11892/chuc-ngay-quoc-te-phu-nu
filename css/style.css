@@ -115,3 +115,14 @@ a {
     border-radius: 120px;
     border:  solid rgb(255, 17, 0);
 }
+.cover1 {
+    width: 220px;
+    height: 220px;
+   
+    box-shadow: 0 0 30px #eee;
+    position: absolute;
+    margin-top: 3rem;
+    left: calc(50% - 140px);
+    top: calc(50% + 60px);
+    border-radius: 120px;
+}
